@@ -1,8 +1,7 @@
 {
-  "RankOne": 1,
-  "RankTwo": 2,
-  "RankThree": 3,
-  "RankFour": 4,
-  "RankFive": 5,
-  "RankSix": 6
-}
+  "Membre": 1,
+  "Représentant": 4,
+  "Promoteur": 10,
+  "Partenaire": 25,
+  "Ministre": 50,
+  "Ambassadeur": 150, "Top Promoteur": 500}
